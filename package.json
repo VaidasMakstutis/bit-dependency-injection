@@ -1,0 +1,26 @@
+{
+  "name": "bit-dependency-injection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "anime": "nodemon ./anime.js",
+    "user": "nodemon ./uuid.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaidasMakstutis/bit-dependency-injection.git"
+  },
+  "keywords": [],
+  "author": "Vaidas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaidasMakstutis/bit-dependency-injection/issues"
+  },
+  "homepage": "https://github.com/VaidasMakstutis/bit-dependency-injection#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
